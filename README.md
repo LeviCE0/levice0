@@ -1,3 +1,5 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 ## ¡Hola! 👋
 
 Soy Levi Céspedes, un desarrollador de software con experiencia en las siguientes tecnologías:
