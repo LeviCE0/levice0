@@ -1,16 +1,18 @@
-## Hi there 👋
+## ¡Hola! 👋
 
-<!--
-**LeviCE0/levice0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Levi Céspedes, un desarrollador de software con experiencia en las siguientes tecnologías:
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Descripción
+
+En MindCodeTech, me especializo en el desarrollo de aplicaciones web modernas y responsivas utilizando **HTML**, **CSS**, **JavaScript**, **React**, **Tailwind CSS** y **Vite**. Mi objetivo es crear experiencias de usuario atractivas y eficientes, integrando las últimas tecnologías y mejores prácticas en cada proyecto. 
+
+¡Estoy emocionado de colaborar y aprender en este viaje tecnológico! 🚀
