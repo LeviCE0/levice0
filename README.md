@@ -36,6 +36,6 @@ Soy Levi Céspedes, un desarrollador de software con experiencia en las siguient
 
 ### Descripción
 
-En MindCodeTech, me especializo en el desarrollo de aplicaciones web modernas y responsivas utilizando **HTML**, **CSS**, **JavaScript**, **React**, **Tailwind CSS** y **Vite**. Mi objetivo es crear experiencias de usuario atractivas y eficientes, integrando las últimas tecnologías y mejores prácticas en cada proyecto. 
+Me especializo en el desarrollo de aplicaciones web modernas y responsivas utilizando **HTML**, **CSS**, **JavaScript**, **React**, **Tailwind CSS** y **Vite**. Mi objetivo es crear experiencias de usuario atractivas y eficientes, integrando las últimas tecnologías y mejores prácticas en cada proyecto. 
 
 ¡Estoy emocionado de colaborar y aprender en este viaje tecnológico! 🚀
